@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpraj Kushwaha</h1>
-<h3 align="center">I am Software Engineer, specialization in a android development and have good hand on problem solving i.e. competitive programming, seeking for a opportunity to improve my skill.</h3>
+<h3 align="center">Soon-to-be Computer Science graduate eager to continue exploring, inspiring, innovating in field of Software Development. I am a practical knowledge seeker. To work in an environment wher my skills and knowledge reflect the growth of the company and enhance my knowledge as well as experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmrhashtag&label=Profile%20views&color=0e75b6&style=flat" alt="itsmrhashtag" /> </p>
 
