@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmrhashtag" alt="itsmrhashtag" /></a> </p>
 
-- 🔭 I’m currently working on **Guido**
+- 🔭 I’m currently working on [Smart Contact Manager](https://github.com/Itsmrhashtag/SmartContactManager)
 
 - 🌱 I’m currently learning **Spring boot and Spring mvc**
 
 - 👯 I’m looking to collaborate on **Android development and Java development**
 
-- 🤝 I’m looking for help in **Android**
+- 🤝 I’m looking for help in **java development**
 
 - 💬 Ask me about **Java Kotlin and Spring framework**
 
