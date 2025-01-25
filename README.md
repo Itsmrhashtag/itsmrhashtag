@@ -1,4 +1,5 @@
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmrhashtag&label=Profile%20views&color=0e75b6&style=flat" alt="itsmrhashtag" /> </p>
 🔭 I’m currently working on Food Order Management System. <br><br>🌱 I’m currently learning Docker and Spring Boot. <br><br>👯 I’m looking to collaborate on  Java development and DevOps.<br><br>🤝 I’m looking for help in Java development and DevOps.<br><br>💬 Ask me about Java,Spring framework and DevOps. <br><br>📫 How to reach me kpushpraj54@gmail.com
 
 
