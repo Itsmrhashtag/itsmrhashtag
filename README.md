@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=itsmrhashtag&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-# 👨‍💻 Hey there, I'm **Pushpraj Kushwaha** (aka *MrHashtag*)  
+# 👨‍💻 Hey there, I'm **MrHashtag**  
 🚀 *Passionate Java Developer & DevOps Enthusiast | Building scalable backends and automating the future!*
 
 ---
@@ -18,17 +18,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/pushprajkushwaha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kpushpraj54@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 💻 Tech Stack  
 
@@ -109,4 +98,4 @@
   <i>“Turning coffee ☕ into clean, deployable code 🚀”</i>
 </p>
 
-<!-- Proudly crafted with ❤️ by Pushpraj -->
+<!-- Proudly crafted with ❤️ by Mrhashtag -->
