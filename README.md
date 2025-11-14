@@ -81,12 +81,6 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Itsmrhashtag&icon=2&color=3" alt="Visitor Count"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://holopin.io/@mrhashtag">
     <img src="https://holopin.me/mrhashtag" alt="Holopin Badges"/>
   </a>
